@@ -1,6 +1,6 @@
 # React Native Job Finder App
 
-Welcome to the React Native Job Finder App! This application serves as a practical learning project to help you develop your skills in React Native development. Throughout the development of this app, you will gain experience in building visually appealing UI/UX designs, fetching data from an external API, implementing search and pagination functionality, creating custom API data fetching hooks, and writing clean, organized, and maintainable code with proper architecture.
+Hello fellow developers! 👋 Welcome to the React Native Job Finder App, a project that represents the culmination of my efforts in honing my skills in React Native development. Throughout the journey of building this app, I've had the opportunity to delve into various aspects of mobile app development, crafting a robust and feature-rich application.
 
 ## Functionalities
 
