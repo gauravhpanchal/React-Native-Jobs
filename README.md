@@ -22,11 +22,8 @@ Hello fellow developers! 👋 Welcome to the React Native Job Finder App, a proj
 - Users can navigate through multiple pages of job search results seamlessly.
 
 ### Demo
-- To experience the app in action, check out the [Demo Link](#) (replace with the actual demo link once available).
+To experience the app in action, scan the QR code below using the [Expo Go](https://expo.dev/client) app:
 
-## Installation
+![QR Code](https://qr.expo.dev/eas-update?updateId=80825bbd-afd1-46f4-8168-65a85874b6ed&appScheme=exp&host=u.expo.dev)
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/react-native-job-finder.git
+Don't have Expo Go installed? Download it from the [App Store](https://apps.apple.com/app/apple-store/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) and get ready to explore the React Native Job Finder App!
